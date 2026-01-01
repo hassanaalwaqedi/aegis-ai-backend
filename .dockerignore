@@ -1,0 +1,13 @@
+﻿# Ignore large files for Railway deployment
+__pycache__/
+*.pyc
+venv/
+.venv/
+venv312/
+*.pt
+*.pth
+*.onnx
+*.mp4
+*.avi
+node_modules/
+.next/
